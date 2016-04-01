@@ -9,4 +9,4 @@ IronMan
 - **Inventario:**
 	* armadura
 	* dinheiro
-	* bebida
+	* bebidas
